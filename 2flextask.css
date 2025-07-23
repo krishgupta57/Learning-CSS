@@ -1,0 +1,24 @@
+.main{
+    background-color: gold;
+}
+
+.content{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.head{
+    font-size: 45px;
+}
+.button{
+    background-color: gold;
+    padding-left: 30PX;
+    padding-right: 30PX;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    
+}

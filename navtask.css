@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.nav{
+    display: flex;
+    background-color: beige;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+
+.nav ul{
+    display: flex;
+    gap: 50px;
+    font-size: 20px;
+    list-style: none;
+}
+
+.hero{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(193, 224, 236);
+    padding: 95px;
+}
+
+.ch1{
+    line-height: 60px;
+}
+
+.ch1 p{
+    line-height: 20px;
+}
+
+.ch1 h1{
+    font-size: 50px;
+}
+
+.ch1 button{
+    padding: 10px 30px;
+    background-color: rgb(105, 105, 252);
+    color: aliceblue;
+}
+

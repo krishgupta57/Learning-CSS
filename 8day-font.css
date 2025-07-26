@@ -1,0 +1,17 @@
+.head1{
+    font-family: "Playwrite AU QLD", cursive;
+}
+
+.head2{
+    font-family: "Dancing Script", cursive;
+}
+
+.hero1{
+    background-image: url(front.png);
+    height: 100vh;
+    background-size: cover;
+}
+
+.hero1 h1{
+    color: aliceblue;
+}

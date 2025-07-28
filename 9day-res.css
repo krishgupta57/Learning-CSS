@@ -1,0 +1,12 @@
+.parent{ 
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.parent div{
+    height: 200px;
+    width: 200px;
+    background-color: yellowgreen;
+    border: 2px solid black;
+} 
